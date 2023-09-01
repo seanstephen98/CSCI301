@@ -135,8 +135,8 @@ class minr :
         # pubnub object will be used to publish a proposed block too
         self.pnconfig = PNConfiguration()
 
-        self.pnconfig.subscribe_key = 'sub-c-6b82e386-fb73-48b1-9450-4e50fcbbee22'
-        self.pnconfig.publish_key = 'pub-c-78e5dd40-194d-4794-960c-507319affba1'
+        self.pnconfig.subscribe_key = 'enter key'
+        self.pnconfig.publish_key = 'enter key'
         self.pnconfig.user_id = name
         self.pubnub = PubNub(self.pnconfig)
 
