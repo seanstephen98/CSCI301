@@ -1,0 +1,8 @@
+{
+    "Block number": 1,
+    "Hash": "e316b5c69911001c0c95332a013d5a9df61bdc48d023e978902f5d3b9af27bdb",
+    "Nonce": 605505,
+    "Proposer": "Alice",
+    "Time": 1692633144.3825405,
+    "Transaction": "[3, 4, 5, 6]"
+}
